@@ -14,8 +14,8 @@ Generate Detailed Notes: With a click of a button, the AI-powered Gemini Pro mod
 
 <img width="925" alt="Screenshot 2024-06-26 at 1 08 49 PM" src="https://github.com/chanchalalam/YouTube-Video-to-Detailed-Notes-Converter/assets/106960500/d7820af3-e9ee-47dc-9632-1cac5527843d">
 
-<img width="1440" alt="Screenshot 2024-06-26 at 1 05 14 PM" src="https://github.com/chanchalalam/YouTube-Video-to-Detailed-Notes-Converter/assets/106960500/e481e972-a013-4a86-b78d-64c3340ba12a">
+<img width="1176" alt="Screenshot 2024-06-26 at 1 05 14 PM" src="https://github.com/chanchalalam/YouTube-Video-to-Detailed-Notes-Converter/assets/106960500/67ac3ab7-0869-4c01-8eba-1eaf611d4031">
 
-![Screenshot 2024-06-26 at 1 05 21 PM](https://github.com/chanchalalam/YouTube-Video-to-Detailed-Notes-Converter/assets/106960500/f907a628-2298-494f-82b3-334422f66d4a)
 
+![Screenshot 2024-06-26 at 1 05 21 PM](https://github.com/chanchalalam/YouTube-Video-to-Detailed-Notes-Converter/assets/106960500/fdf5e5c9-acad-4bf4-ac7b-1df620bcdee4)
 
