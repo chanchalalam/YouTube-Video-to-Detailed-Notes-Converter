@@ -9,6 +9,7 @@ Select Video Language: The tool allows users to specify the language of the vide
 
 Generate Detailed Notes: With a click of a button, the AI-powered Gemini Pro model processes the video transcript and generates a comprehensive summary in the form of detailed notes.
 
+You can try it out here: https://youtube-video-to-detailed-notes-converter-app.streamlit.app/
 
 <img width="1022" alt="Screenshot 2024-06-26 at 1 08 39 PM" src="https://github.com/chanchalalam/YouTube-Video-to-Detailed-Notes-Converter/assets/106960500/bf3c593f-a1ac-4d73-abb3-368f731f9531">
 
